@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![she/her](https://img.shields.io/badge/she%2Fher-analista%20de%20dados-b39ddb?style=flat-square&labelColor=1e1433)
-![location](https://img.shields.io/badge/location-Brasil-b39ddb?style=flat-square&labelColor=1e1433)
-![commits](https://img.shields.io/badge/commits%202026-139-7ee2a8?style=flat-square&labelColor=1f6f3c)
+![](https://img.shields.io/static/v1?label=she%2Fher&message=analista+de+dados&color=b39ddb&labelColor=1e1433&style=flat-square)
+![](https://img.shields.io/static/v1?label=location&message=Brasil&color=b39ddb&labelColor=1e1433&style=flat-square)
+![](https://img.shields.io/static/v1?label=commits+2026&message=139&color=7ee2a8&labelColor=1f6f3c&style=flat-square)
 
 # oi, eu sou a Marcella 💜
 ### data analyst · python · bi · dashboards
