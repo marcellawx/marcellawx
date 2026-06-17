@@ -3,7 +3,7 @@
 <div align="center">
 
 ![she/her](https://img.shields.io/badge/she%2Fher-%F0%9F%92%9C%20analista%20de%20dados-b39ddb?style=flat-square&labelColor=1e1433)
-![location](https://img.shields.io/badge/Brasil-%F0%9F%87%A7%F0%9F%87%B7-b39ddb?style=flat-square&labelColor=1e1433)
+![location](https://img.shields.io/badge/location-Brasil-b39ddb?style=flat-square&labelColor=1e1433)
 ![commits](https://img.shields.io/badge/commits%202026-139-7ee2a8?style=flat-square&labelColor=1f6f3c)
 
 # oi, eu sou a Marcella 💜
