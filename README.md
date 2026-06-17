@@ -1,13 +1,14 @@
-<!-- marcellawx github profile -->
+<!-- marcellawx github profile readme -->
 
 <div align="center">
 
-![status](https://img.shields.io/badge/status-open%20to%20work-b39ddb?style=flat-square&labelColor=2d2250)
-![location](https://img.shields.io/badge/location-%F0%9F%87%A7%F0%9F%87%B7%20Brasil-b39ddb?style=flat-square&labelColor=2d2250)
-![focus](https://img.shields.io/badge/focus-data%20analytics-b39ddb?style=flat-square&labelColor=2d2250)
+![badge](https://img.shields.io/badge/she%2Fher-💜%20analista%20de%20dados-b39ddb?style=flat-square&labelColor=1e1433)
+![badge](https://img.shields.io/badge/location-🇧🇷%20brasil-b39ddb?style=flat-square&labelColor=1e1433)
+![badge](https://img.shields.io/badge/commits%202026-137-7ee2a8?style=flat-square&labelColor=1f6f3c)
 
-# oi, eu sou a marcella 💜
-### @marcellawx · data analyst
+# oi, eu sou a Marcella 💜
+### data analyst · python · bi · dashboards
+#### she/her · UTC-03:00 · Brasil
 
 </div>
 
@@ -15,16 +16,29 @@
 
 ## ✦ sobre mim
 
-analista de dados apaixonada por transformar números em **histórias**.
-acredito que dados bem visualizados mudam decisões — e decisões mudam mundos.
+analista de dados apaixonada por transformar números em **histórias que fazem sentido**.
 
-quando não estou explorando datasets, estou aprendendo algo novo ou tomando café ☕
+utilizo **Python** e ferramentas de **BI** para criar dashboards e soluções orientadas a dados.
+acredito que uma boa visualização não apenas informa — ela **convence**.
+
+curiosa por natureza, sempre buscando aprender e aplicar novas técnicas em análise de dados ☕
 
 ---
 
 ## ✦ tech stack
 
-`Python` `SQL` `Power BI` `Tableau` `Pandas` `NumPy` `Excel` `Looker Studio`
+`Python` `SQL` `Power BI` `Tableau` `Looker Studio` `Pandas` `NumPy` `Matplotlib` `Excel` `Git`
+
+---
+
+## ✦ projetos em destaque
+
+| projeto | descrição |
+|---|---|
+| 📊 [dashboards](https://github.com/marcellawx/dashboards) | coleção de dashboards analíticos e visualizações |
+| 🤖 [marcella-ai-chatbot](https://github.com/marcellawx/marcella-ai-chatbot) | chatbot com inteligência artificial integrada |
+| 🍕 [sitesuperpizza](https://github.com/marcellawx/sitesuperpizza) | projeto web para sistema de pedidos |
+| ✅ [homologacao_terceiros](https://github.com/marcellawx/homologacao_terceiros) | sistema de homologação e validação de dados |
 
 ---
 
@@ -40,7 +54,7 @@ quando não estou explorando datasets, estou aprendendo algo novo ou tomando caf
 
 ---
 
-## ✦ pensamento do momento
+## ✦ pensamento
 
 > *"in god we trust; all others must bring data."*
 > — w. edwards deming
@@ -49,5 +63,9 @@ quando não estou explorando datasets, estou aprendendo algo novo ou tomando caf
 
 ## ✦ vamos conversar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b39ddb?style=flat-square&logo=linkedin&logoColor=0d1117)](https://linkedin.com/in/marcella-vilar/)
-[![Email](https://img.shields.io/badge/Email-b39ddb?style=flat-square&logo=gmail&logoColor=0d1117)](mailto:vilarmarcella@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcella--vilar-b39ddb?style=flat-square&logo=linkedin&logoColor=0d1117&labelColor=1e1433)](https://linkedin.com/in/marcella-vilar)
+[![GitHub](https://img.shields.io/badge/GitHub-marcellawx-b39ddb?style=flat-square&logo=github&logoColor=0d1117&labelColor=1e1433)](https://github.com/marcellawx)
+
+</div>
