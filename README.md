@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![she/her](https://img.shields.io/badge/she%2Fher-%F0%9F%92%9C%20analista%20de%20dados-b39ddb?style=flat-square&labelColor=1e1433)
+![she/her](https://img.shields.io/badge/she%2Fher-analista%20de%20dados-b39ddb?style=flat-square&labelColor=1e1433)
 ![location](https://img.shields.io/badge/location-Brasil-b39ddb?style=flat-square&labelColor=1e1433)
 ![commits](https://img.shields.io/badge/commits%202026-139-7ee2a8?style=flat-square&labelColor=1f6f3c)
 
@@ -27,7 +27,7 @@ curiosa por natureza, sempre buscando aprender e aplicar novas técnicas em aná
 
 ## ✦ tech stack
 
-`Python` `SQL` `Power BI` `Tableau` `Looker Studio` `Pandas` `NumPy` `Matplotlib` `Excel` `Git`
+`Python` `SQL` `Power BI` `Tableau` `Looker Studio` `Pandas` `NumPy` `Excel` `Git`
 
 ---
 
