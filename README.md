@@ -14,7 +14,7 @@
 
 ---
 
-## ✦ sobre mim
+## ✦ sobre mim:
 
 analista de dados apaixonada por transformar números em **histórias que fazem sentido**.
 
